@@ -1,0 +1,40 @@
+char _1a_bjAAAjed_89898 = 'i';
+for MAX
++     NULL - 
+0.0 1.0 0.1111 2.555 10 +6 +0 -0
+// hello
+/*
+nice to meet you
+*/
+'\n'
+'a'
+'\t'
+for MAX
++     NULL - 
++ - * / % ++ -- < <= > >= == != = && || ! & |
+: ; , . [ ] ( ) { }
+'a' 'b' 'c' 'd' 'A' 'Q'
+'\a' '\b' '\e' '\f' '\n' '\\' '\'' '\"' '\?' '\05' '\x1aB' '\uAb34' '\U1234Bb78'
+1234 -987 + -0 +0 - 23
+0.0 .23 3.5 12. -. -0.2 -.2 -0. .
+a123 int8 23a
+char chara= 'c';// comment sdsadsad char
+a+ b = d /*what
+printf(); int x=1;*/
+int main()
+{//nope
+    int N=true&&    false; 
+char charchar= '\U88bC00aD';
+"//n jidejijede //n"
+#pragma      token off
+    scanf("%d\n",&N); //scan N;
+    #pragma token on
+    for(int i=0;i<N;i++)
+    {
+#pragma source          off
+        printf("%d%d%d%d",i,i + 1,i-2,i*2.6);
+    #pragma         source          on
+    }
+    
+    float float89.3=-.0;/*forMAX+ 3. <-->:?
+}
